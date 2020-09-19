@@ -1,1 +1,5 @@
-index.php
+<?php>
+
+
+	echo "Hello Git!";
+	echo "Hello Git2!";
